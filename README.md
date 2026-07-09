@@ -9,7 +9,7 @@ The dataset includes measurements of major inorganic ions and low molecular weig
 
 All analyte concentrations are reported in:
 
-ppb (µg L⁻¹) or µeq L⁻¹unless otherwise noted.
+ppb (µg L⁻¹) or µeq L⁻¹unless otherwise noted. TOC_um is actually dissolved organic carbon (DOC) in uM C/L
 
 ---
 
