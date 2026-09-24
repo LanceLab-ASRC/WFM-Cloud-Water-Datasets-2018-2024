@@ -1,3 +1,10 @@
+This repository is a fork of the Whiteface Mountain cloud water dataset originally archived at Zenodo:
+
+Tripathy, A. (2026). Archie060/Cloud-Water-Datasets-WFM: v1.0. Zenodo. https://doi.org/10.5281/zenodo.19258510
+
+Original source repository:
+https://github.com/Archie060/Cloud-Water-Datasets-WFM
+
 # Whiteface Mountain Cloud Water Chemistry Dataset (2018–2024)
 
 This repository contains cloud water chemistry measurements collected at the summit of Whiteface Mountain Observatory in the Adirondack Mountains, New York, USA. 
